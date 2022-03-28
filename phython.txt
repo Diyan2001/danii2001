@@ -1,0 +1,16 @@
+<h1>Muhammad diyan irfan</h1>
+<h2>Muhammad irfan</h2>
+<h3>5th Semester</h3>
+<h4>33303-2810574-5</h4>
+<h5>Faisalabad</h5>
+<h6>Islam</h6>
+<hr />
+<p>My name is Muhammad diyan irfan.My father name is Muhammad irfan.I belong to faisalabad.My father job is in army.I completed my primary from pindi and college from islamabad. currently i am in 6th semester and doing BSCS from FUUAST islamabad.</p>
+<hr />
+<p><img src="D:\daniest\IMG-20220110-WA0009" alt="boy image" width="1200" /></p>
+<hr />
+<p><a href="http://www.google.com" target="-black">GOOGLE</a></p>
+<hr />
+<p><a href="http://www.pexels.com/photo/photography-of-silver-ring-on-book-776646/" target="-black">RELATIVE URL </a></p>
+<hr />
+<p><a href="https://github.com/diyan-A.html" target="-black">ABSOLUTE URL</a></p>
